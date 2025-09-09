@@ -5,3 +5,4 @@ prophet
 statsmodels
 reportlab
 numpy
+plotly
